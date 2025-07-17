@@ -13,12 +13,12 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 
 ### 🎯 What I'm Focused On
 
-⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies.
-📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics.
-🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments.
-🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility.
-🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making.
-🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable.
+⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies
+📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics
+🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments
+🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility
+🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making
+🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable
 
 
 ### 🔭 What I’m Working On
