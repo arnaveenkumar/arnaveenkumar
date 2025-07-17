@@ -1,9 +1,8 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Naveenkumar Adi Raman]([https://www.linkedin.com/in/naveen99/])
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Naveenkumar Adi Raman
 
 🔧 Software Engineer | AI and Machine Learning Specialist 
 📍 Based in Montreal, Quebec, Canada.
 
----
 
 ### 🚀 About Me
 
@@ -11,7 +10,6 @@ I'm a pragmatic software engineer with 3+ years of experience designing and depl
 
 I’ve taken ownership of commercial discussions, requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
----
 
 ### 🎯 What I'm Focused On
 
@@ -22,7 +20,6 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making.
 🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable.
 
----
 
 ### 🔭 What I’m Working On
  
@@ -31,7 +28,6 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps.
 🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development.
 
----
 
 ### 🌱 Open To
 
