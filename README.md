@@ -14,30 +14,30 @@ I’ve taken ownership of gathering functional requirements, design, development
 
 ### 🎯 What I'm Focused On
 
-⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies </br>
-📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics
-🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments
-🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility
-🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making
-🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable
+⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies. </br>
+📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics. </br>
+🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments. </br>
+🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility. </br>
+🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making. </br>
+🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable. </br>
 
 ---
 
 ### 🔭 What I’m Working On
  
-📚 Deepening expertise in Machine Learning, Data Engineering, and scalable Python-based systems through advanced coursework and certifications.
-🧠 Enhancing skills in model deployment, data pipeline optimization, and cloud architecture to support end-to-end ML workflows.
-🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps.
-🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development.
+📚 Deepening expertise in Machine Learning, Data Engineering, and scalable Python-based systems through advanced coursework and certifications. </br>
+🧠 Enhancing skills in model deployment, data pipeline optimization, and cloud architecture to support end-to-end ML workflows. </br>
+🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps. </br>
+🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development. </br>
 
 ---
 
 ### 🌱 Open To
 
-🎯 Data Engineering roles focused on building scalable data pipelines, real-time processing systems, and cloud-native solutions.
-🧠 Machine Learning Engineer or Applied Scientist positions involving model development, experimentation, and deployment using Python.
-📊 Python Developer roles with a focus on data-centric applications, automation, and backend system design.
-💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams.
+🎯 Data Engineering roles focused on building scalable data pipelines, real-time processing systems, and cloud-native solutions. </br>
+🧠 Machine Learning Engineer or Applied Scientist positions involving model development, experimentation, and deployment using Python. </br>
+📊 Python Developer roles with a focus on data-centric applications, automation, and backend system design. </br>
+💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams. </br>
 
 ---
 
