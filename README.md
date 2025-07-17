@@ -10,6 +10,7 @@ I'm a pragmatic software engineer with 3+ years of experience designing and depl
 
 I’ve taken ownership of commercial discussions, requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
+---
 
 ### 🎯 What I'm Focused On
 
