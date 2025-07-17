@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Naveenkumar Adi Raman]([https://www.linkedin.com/in/naveen99/])
 
 🔧 Software Engineer | AI and Machine Learning Specialist 
-📍 Based in Montreal,QC
+📍 Based in Montreal, Quebec, Canada.
 
 ---
 
@@ -45,4 +45,4 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryakumardevarajan/)](https://www.linkedin.com/in/naveen99/)  
 📧 arnaveen99@gmail.com  
-📍 Montreal, Quebec
+📍 Montreal, Quebec, Canada
