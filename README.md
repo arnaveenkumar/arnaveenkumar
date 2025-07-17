@@ -8,7 +8,7 @@
 
 I'm a pragmatic software engineer with 3+ years of experience designing and deploying scalable, event-driven backend systems using Python (Flask, FastAPI), Kafka, and Kubernetes on Azure. Proven ability to build and maintain RESTful APIs, with exposure to cloud-native tools. Comfortable collaborating in cross-functional teams including UI/UX designers, and product managers. Familiar with CI/CD pipelines and actively contributing to open-source projects.
 
-I’ve taken ownership of commercial discussions, requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
+I’ve taken ownership of gathering functional requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
 ---
 
