@@ -10,7 +10,6 @@ I'm a pragmatic software engineer with 3+ years of experience designing and depl
 
 I’ve taken ownership of gathering functional requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
----
 
 ### 🎯 What I'm Focused On
 
@@ -21,7 +20,6 @@ I’ve taken ownership of gathering functional requirements, design, development
 🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making. </br>
 🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable. </br>
 
----
 
 ### 🔭 What I’m Working On
  
@@ -30,7 +28,6 @@ I’ve taken ownership of gathering functional requirements, design, development
 🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps. </br>
 🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development. </br>
 
----
 
 ### 🌱 Open To
 
@@ -39,7 +36,6 @@ I’ve taken ownership of gathering functional requirements, design, development
 📊 Python Developer roles with a focus on data-centric applications, automation, and backend system design. </br>
 💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams. </br>
 
----
 
 ### 📫 Let's Connect
 
