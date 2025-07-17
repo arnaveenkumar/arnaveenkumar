@@ -21,6 +21,7 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making
 🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable
 
+---
 
 ### 🔭 What I’m Working On
  
@@ -29,6 +30,7 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps.
 🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development.
 
+---
 
 ### 🌱 Open To
 
@@ -37,6 +39,7 @@ I’ve taken ownership of commercial discussions, requirements, design, developm
 📊 Python Developer roles with a focus on data-centric applications, automation, and backend system design.
 💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams.
 
+---
 
 ### 📫 Let's Connect
 
