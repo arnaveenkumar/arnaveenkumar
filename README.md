@@ -11,25 +11,23 @@ I'm a pragmatic software engineer with 3+ years of experience designing and depl
 I’ve taken ownership of gathering functional requirements, design, development, testing, release, and launch. My work emphasizes clear planning, cross-functional teamwork, and a strong focus on quality and compliance.
 
 
-### 🎯 What I'm Focused On
+### 🎯 Focused On
 
 ⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies. </br>
 📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics. </br>
 🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments. </br>
 🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility. </br>
-🧩 Progressing toward a technical leadership role, combining hands-on expertise with mentoring and architectural decision-making. </br>
 🚀 Passionate about developing solutions that are not just technically sound, but impactful, ethical, and scalable. </br>
 
 
-### 🔭 What I’m Working On
+### 🔭 Working On
  
 📚 Deepening expertise in Machine Learning, Data Engineering, and scalable Python-based systems through advanced coursework and certifications. </br>
 🧠 Enhancing skills in model deployment, data pipeline optimization, and cloud architecture to support end-to-end ML workflows. </br>
 🌐 Actively engaging with open-source communities and tech forums to stay updated on trends in AI, data platforms, and MLOps. </br>
-🚀 Reflecting on past hands-on experiences to shape a career rooted in innovation, technical leadership, and impact-driven development. </br>
 
 
-### 🌱 Open To
+### 🌱 Open to
 
 🎯 Data Engineering roles focused on building scalable data pipelines, real-time processing systems, and cloud-native solutions. </br>
 🧠 Machine Learning Engineer or Applied Scientist positions involving model development, experimentation, and deployment using Python. </br>
@@ -37,7 +35,14 @@ I’ve taken ownership of gathering functional requirements, design, development
 💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams. </br>
 
 
-### 📫 Let's Connect
+### 💬 Fun Facts
+
+📚 I love reading books—a wonderful habit I developed in 2017. Currently reading To Kill a Mockingbird by Harper Lee. </br>
+♟️ I love playing chess. It’s not just about winning or losing—it’s about learning patience, mastering strategy, and developing mental discipline. </br>
+
+
+
+### 📫 Connect with me on
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryakumardevarajan/)](https://www.linkedin.com/in/naveen99/)  
 📧 arnaveen99@gmail.com  
