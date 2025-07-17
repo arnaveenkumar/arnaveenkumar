@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Naveenkumar Adi Raman
 
-🔧 Software Engineer | AI and Machine Learning Specialist 
+🔧 Software Engineer | AI and Machine Learning Specialist | Data Engineering Enthusiast </br> 
 📍 Based in Montreal, Quebec, Canada.
 
 
