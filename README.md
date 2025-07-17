@@ -14,7 +14,7 @@ I’ve taken ownership of gathering functional requirements, design, development
 
 ### 🎯 What I'm Focused On
 
-⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies ****
+⚙️ Building scalable data pipelines and ML workflows using Python, Spark, and cloud-native technologies </br>
 📈 Applying ML and data engineering best practices to solve real-world problems across domains like AI, automation, and analytics
 🧠 Driving end-to-end model lifecycle, from data ingestion to deployment and monitoring in production environments
 🔍 Designing data-driven systems with a strong emphasis on performance, reliability, and reproducibility
