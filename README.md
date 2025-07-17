@@ -29,9 +29,9 @@ I’ve taken ownership of gathering functional requirements, design, development
 
 ### 🌱 Open to
 
-🎯 Data Engineering roles focused on building scalable data pipelines, real-time processing systems, and cloud-native solutions. </br>
-🧠 Machine Learning Engineer or Applied Scientist positions involving model development, experimentation, and deployment using Python. </br>
 📊 Python Developer roles with a focus on data-centric applications, automation, and backend system design. </br>
+🎯 Data Engineering roles focused on building scalable data pipelines, real-time processing systems, and cloud-native solutions. </br>
+🧠 Machine Learning Engineer roles involving model development, experimentation, and deployment using Python. </br>
 💡 Passionate about roles that combine clean code, ML workflows, data reliability, and cross-functional collaboration in agile teams. </br>
 
 
